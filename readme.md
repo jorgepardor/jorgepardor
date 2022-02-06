@@ -40,9 +40,9 @@
 <h3> 💖 &nbsp;Connect with Me </h3>
 
 <p align="center">
-<a href="#"><img alt="Website" src="https://img.shields.io/badge/Website-coming%20soon!-blue?style=flat-square&logo=google-chrome"></a>
-<a href="https://www.linkedin.com/in/jorgeluispardo/"><img alt="LinkedIn" src="https://img.shields.io/badge/Jorge%20Pardo-blue?style=flat-square&logo=linkedin"></a>
-<a href="https://www.instagram.com/jorgepardo/"><img alt="Instagram" src="https://img.shields.io/badge/jorgepardo-blue?style=flat-square&logo=instagram"></a>
-<a href="https://twitter.com/jorgepardor"><img alt="Twitter" src="https://img.shields.io/badge/jorgepardor-blue?style=flat-square&logo=twitter"></a>
-<a href="mailto:iamjorgepardo@gmail.com"><img alt="Email" src="https://img.shields.io/badge/gmail-blue?style=flat-square&logo=gmail"></a>
+<a href="#"><img alt="Website" src="https://img.shields.io/badge/coming%20soon!-333333?style=flat-square&logo=google-chrome"></a>
+<a href="https://www.linkedin.com/in/jorgeluispardo/"><img alt="LinkedIn" src="https://img.shields.io/badge/Jorge%20Pardo-333333?style=flat-square&logo=linkedin"></a>
+<a href="https://www.instagram.com/jorgepardo/"><img alt="Instagram" src="https://img.shields.io/badge/jorgepardo-333333?style=flat-square&logo=instagram"></a>
+<a href="https://twitter.com/jorgepardor"><img alt="Twitter" src="https://img.shields.io/badge/jorgepardor-333333?style=flat-square&logo=twitter"></a>
+<a href="mailto:iamjorgepardo@gmail.com"><img alt="Email" src="https://img.shields.io/badge/gmail-333333?style=flat-square&logo=gmail"></a>
 </p>
