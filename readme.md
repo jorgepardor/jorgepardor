@@ -34,8 +34,6 @@
   ![Photo](https://img.shields.io/badge/-Photo-333333?style=flat&logo=affinity-photo&logoColor=F18BFF)
   ![Publisher](https://img.shields.io/badge/-Publisher-333333?style=flat&logo=affinity-publisher&logoColor=C9274C)
   
-<br/>
-
 
 <h3> 💖 &nbsp;Connect with Me </h3>
 
