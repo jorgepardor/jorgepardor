@@ -43,5 +43,6 @@
 <a href="#"><img alt="Website" src="https://img.shields.io/badge/Website-coming%20soon!-blue?style=flat-square&logo=google-chrome"></a>
 <a href="https://www.linkedin.com/in/jorgeluispardo/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Jorge%20Pardo-blue?style=flat-square&logo=linkedin"></a>
 <a href="https://www.instagram.com/jorgepardo/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-jorgepardo-blue?style=flat-square&logo=instagram"></a>
-<a href="mailto:iamjorgepardo@gmail.com"><img alt="Email" src="https://img.shields.io/badge/iamjorgepardo@gmail.com-blue?style=flat-square&logo=gmail"></a>
+<a href="https://twitter.com/jorgepardor"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-jorgepardor-blue?style=flat-square&logo=twitter"></a>
+<a href="mailto:iamjorgepardo@gmail.com"><img alt="Email" src="https://img.shields.io/badge/gmail-blue?style=flat-square&logo=gmail"></a>
 </p>
