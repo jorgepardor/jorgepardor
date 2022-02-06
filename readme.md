@@ -1,5 +1,3 @@
-<img src="#">
-
 <h2> Hey there! I'm Jorge.</h2>
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
