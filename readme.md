@@ -10,29 +10,29 @@
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
 - 🌐 &nbsp;
-  ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
-  ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-  ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
+  ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat-square&logo=HTML5)
+  ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat-square&logo=CSS3&logoColor=1572B6)
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat-square&logo=javascript)
+  ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat-square&logo=bootstrap&logoColor=563D7C)
 
 - ⚙️ &nbsp;
-  ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-  ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+  ![Git](https://img.shields.io/badge/-Git-333333?style=flat-square&logo=git)
+  ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat-square&logo=github)
   
 - 🎮 &nbsp;
-  ![UnrealEngine](https://img.shields.io/badge/-Unreal%20Engine-333333?style=flat&logo=unreal-engine)
+  ![UnrealEngine](https://img.shields.io/badge/-Unreal%20Engine-333333?style=flat-square&logo=unreal-engine)
   
 - 🔧 &nbsp;
-  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
+  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat-square&logo=visual-studio-code&logoColor=007ACC)
 
 - 🖥 &nbsp;
-  ![Illustrator](https://img.shields.io/badge/-Illustrator-333333?style=flat&logo=adobe-illustrator)
-  ![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobe-photoshop)
-  ![InDesign](https://img.shields.io/badge/-InDesign-333333?style=flat&logo=adobe-indesign)
-  ![XD](https://img.shields.io/badge/-Adobe%20XD-333333?style=flat&logo=adobe-xd)
-  ![Designer](https://img.shields.io/badge/-Designer-333333?style=flat&logo=affinity-designer&logoColor=4AC8F8)
-  ![Photo](https://img.shields.io/badge/-Photo-333333?style=flat&logo=affinity-photo&logoColor=F18BFF)
-  ![Publisher](https://img.shields.io/badge/-Publisher-333333?style=flat&logo=affinity-publisher&logoColor=C9274C)
+  ![Illustrator](https://img.shields.io/badge/-Illustrator-333333?style=flat-square&logo=adobe-illustrator)
+  ![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat-square&logo=adobe-photoshop)
+  ![InDesign](https://img.shields.io/badge/-InDesign-333333?style=flat-square&logo=adobe-indesign)
+  ![XD](https://img.shields.io/badge/-Adobe%20XD-333333?style=flat-square&logo=adobe-xd)
+  ![Designer](https://img.shields.io/badge/-Designer-333333?style=flat-square&logo=affinity-designer&logoColor=4AC8F8)
+  ![Photo](https://img.shields.io/badge/-Photo-333333?style=flat-square&logo=affinity-photo&logoColor=F18BFF)
+  ![Publisher](https://img.shields.io/badge/-Publisher-333333?style=flat-square&logo=affinity-publisher&logoColor=C9274C)
   
 
 <h3> 💖 &nbsp;Connect with Me </h3>
