@@ -16,10 +16,9 @@
   ![React](https://img.shields.io/badge/-React-333333?style=flat-square&logo=react&logoColor=61DBFB)
 
 - 🧑‍💻 &nbsp;
-
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat-square&logo=python)
   ![Flask](https://img.shields.io/badge/-Flask-333333?style=flat-square&logo=flask)
-  ![Sqlalchemy](https://img.shields.io/badge/-Sqlalchemy-333333?style=flat-square&logo=flask)
+  ![Sqlalchemy](https://img.shields.io/badge/-Sqlalchemy-333333?style=flat-square&logo=sqlalchemy)
 
 - ⚙️ &nbsp;
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat-square&logo=git)
@@ -50,5 +49,5 @@
 <a href="https://www.linkedin.com/in/jorgeluispardo/"><img alt="LinkedIn" src="https://img.shields.io/badge/Jorge%20Pardo-333333?style=flat-square&logo=linkedin"></a>
 <a href="https://www.instagram.com/jorgepardo/"><img alt="Instagram" src="https://img.shields.io/badge/jorgepardo-333333?style=flat-square&logo=instagram"></a>
 <a href="https://twitter.com/jorgepardor"><img alt="Twitter" src="https://img.shields.io/badge/jorgepardor-333333?style=flat-square&logo=twitter"></a>
-<a href="mailto:iamjorgepardo@gmail.com"><img alt="Email" src="https://img.shields.io/badge/gmail-333333?style=flat-square&logo=gmail"></a>
+<a href="mailto:hi@jorgepardo.dev"><img alt="Email" src="https://img.shields.io/badge/gmail-333333?style=flat-square&logo=gmail"></a>
 </p>
