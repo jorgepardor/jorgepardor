@@ -15,14 +15,16 @@
   ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat-square&logo=bootstrap&logoColor=563D7C)
   ![React](https://img.shields.io/badge/-React-333333?style=flat-square&logo=react&logoColor=61DBFB)
 
-  - 🧑‍💻 &nbsp;
+- 🧑‍💻 &nbsp;
 
-    ![Python](https://img.shields.io/badge/-Python-333333?style=flat-square&logo=python)
-
+  ![Python](https://img.shields.io/badge/-Python-333333?style=flat-square&logo=python)
+  ![Flask](https://img.shields.io/badge/-Flask-333333?style=flat-square&logo=flask)
+  ![Sqlalchemy](https://img.shields.io/badge/-Sqlalchemy-333333?style=flat-square&logo=flask)
 
 - ⚙️ &nbsp;
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat-square&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat-square&logo=github)
+  ![Postman](https://img.shields.io/badge/-Postman-333333?style=flat-square&logo=postman)
   
 - 🎮 &nbsp;
   ![UnrealEngine](https://img.shields.io/badge/-Unreal%20Engine-333333?style=flat-square&logo=unreal-engine)
@@ -31,6 +33,7 @@
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat-square&logo=visual-studio-code&logoColor=007ACC)
 
 - 🖥 &nbsp;
+  ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat-square&logo=figma)
   ![Illustrator](https://img.shields.io/badge/-Illustrator-333333?style=flat-square&logo=adobe-illustrator)
   ![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat-square&logo=adobe-photoshop)
   ![InDesign](https://img.shields.io/badge/-InDesign-333333?style=flat-square&logo=adobe-indesign)
