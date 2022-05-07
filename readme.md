@@ -1,9 +1,8 @@
 <h2> Hey there! I'm Jorge.</h2>
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
-- 🌱 &nbsp; Currently enrrolled in a Full-Stack Development course in 4Geeks Academy. <br>
-- 🎓 &nbsp; Finished Graphic Design degree back in 2012 (and some accountancy even earlier 🤢). <br>
-- ☀️ &nbsp; Starting a new career path in web development. <br>
+- 🌱 &nbsp; Just ended a Full-Stack Development Program in 4Geeks Academy. <br>
+- 🎓 &nbsp; Graduated in Graphic Design degree back in 2012 (and some accountancy even earlier 🤢). <br>
 - 👾 &nbsp; Worked 4 years as a Lead UI/UX designer in videogame startup called Gato Studio.<br>
 - ✈️ &nbsp; I like airplanes & 16-bit videogames.<br>
 
@@ -14,6 +13,7 @@
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat-square&logo=CSS3&logoColor=1572B6)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat-square&logo=javascript)
   ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat-square&logo=bootstrap&logoColor=563D7C)
+  ![React](https://img.shields.io/badge/-React-333333?style=flat-square&logo=bootstrap&logoColor=563D7C)
 
 - ⚙️ &nbsp;
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat-square&logo=git)
