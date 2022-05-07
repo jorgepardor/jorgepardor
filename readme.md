@@ -13,7 +13,12 @@
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat-square&logo=CSS3&logoColor=1572B6)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat-square&logo=javascript)
   ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat-square&logo=bootstrap&logoColor=563D7C)
-  ![React](https://img.shields.io/badge/-React-333333?style=flat-square&logo=bootstrap&logoColor=563D7C)
+  ![React](https://img.shields.io/badge/-React-333333?style=flat-square&logo=react&logoColor=61DBFB)
+
+  - 🧑‍💻 &nbsp;
+
+    ![Python](https://img.shields.io/badge/-Python-333333?style=flat-square&logo=python)
+
 
 - ⚙️ &nbsp;
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat-square&logo=git)
