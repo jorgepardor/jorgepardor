@@ -2,7 +2,7 @@
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 - 🌱 &nbsp; Just ended a Full-Stack Development Program in 4Geeks Academy. <br>
-- 🎓 &nbsp; Graduated in Graphic Design degree back in 2012 (and some accountancy even earlier 🤢). <br>
+- 🎓 &nbsp; Graduated in Graphic Design degree back in 2012. <br>
 - 👾 &nbsp; Worked 4 years as a Lead UI/UX designer in videogame startup called Gato Studio.<br>
 - ✈️ &nbsp; I like airplanes & 16-bit videogames.<br>
 
