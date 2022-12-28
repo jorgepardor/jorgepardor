@@ -1,53 +1,24 @@
-<h2> Hey there! I'm Jorge.</h2>
+<h1 align="center">Hi 👋, I'm Jorge</h1>
+<h3 align="center">A frontend developer / UI-UX Designer from Spain</h3>
 
-<h3> 👨🏻‍💻 &nbsp;About Me </h3>
-- 🌱 &nbsp; Just ended a Full-Stack Development Program in 4Geeks Academy. <br>
-- 🎓 &nbsp; Graduated in Graphic Design degree back in 2012. <br>
-- 👾 &nbsp; Worked 4 years as a Lead UI/UX designer in videogame startup called Gato Studio.<br>
-- ✈️ &nbsp; I like airplanes & 16-bit videogames.<br>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=jorgepardor&label=Profile%20views&color=0e75b6&style=flat" alt="jorgepardor" /> </p>
 
-<h3> 🛠 &nbsp;Tech Stack</h3>
+- 🔭 I’m currently working on [a redesign of Autingo.es](https://www.autingo.es/)
 
-- 🌐 &nbsp;
-  ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat-square&logo=HTML5)
-  ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat-square&logo=CSS3&logoColor=1572B6)
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat-square&logo=javascript)
-  ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat-square&logo=bootstrap&logoColor=563D7C)
-  ![React](https://img.shields.io/badge/-React-333333?style=flat-square&logo=react&logoColor=61DBFB)
+- 👨‍💻 All of my projects are available at [https://jorgepardo.dev](https://jorgepardo.dev)
 
-- 🧑‍💻 &nbsp;
-  ![Python](https://img.shields.io/badge/-Python-333333?style=flat-square&logo=python)
-  ![Flask](https://img.shields.io/badge/-Flask-333333?style=flat-square&logo=flask)
-  ![Sqlalchemy](https://img.shields.io/badge/-Sqlalchemy-333333?style=flat-square&logo=sqlalchemy)
+- 📫 How to reach me **hi@jorgepardo.dev**
 
-- ⚙️ &nbsp;
-  ![Git](https://img.shields.io/badge/-Git-333333?style=flat-square&logo=git)
-  ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat-square&logo=github)
-  ![Postman](https://img.shields.io/badge/-Postman-333333?style=flat-square&logo=postman)
-  
-- 🎮 &nbsp;
-  ![UnrealEngine](https://img.shields.io/badge/-Unreal%20Engine-333333?style=flat-square&logo=unreal-engine)
-  
-- 🔧 &nbsp;
-  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat-square&logo=visual-studio-code&logoColor=007ACC)
+- 📄 Know about my experiences [https://drive.google.com/drive/folders/1Jc3iOZSoYyCnWS5Aw2IQ8dn2PPRxQZpw?usp=share_link](https://drive.google.com/drive/folders/1Jc3iOZSoYyCnWS5Aw2IQ8dn2PPRxQZpw?usp=share_link)
 
-- 🖥 &nbsp;
-  ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat-square&logo=figma)
-  ![Illustrator](https://img.shields.io/badge/-Illustrator-333333?style=flat-square&logo=adobe-illustrator)
-  ![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat-square&logo=adobe-photoshop)
-  ![InDesign](https://img.shields.io/badge/-InDesign-333333?style=flat-square&logo=adobe-indesign)
-  ![XD](https://img.shields.io/badge/-Adobe%20XD-333333?style=flat-square&logo=adobe-xd)
-  ![Designer](https://img.shields.io/badge/-Designer-333333?style=flat-square&logo=affinity-designer&logoColor=4AC8F8)
-  ![Photo](https://img.shields.io/badge/-Photo-333333?style=flat-square&logo=affinity-photo&logoColor=F18BFF)
-  ![Publisher](https://img.shields.io/badge/-Publisher-333333?style=flat-square&logo=affinity-publisher&logoColor=C9274C)
-  
+- ⚡ Fun fact **I like airplanes & 16-bit videogames**
 
-<h3> 💖 &nbsp;Connect with Me </h3>
-
-<p align="center">
-<a href="https://jorgepardo.dev"><img alt="Website" src="https://img.shields.io/badge/Website-333333?style=flat-square&logo=website"></a>
-<a href="https://www.linkedin.com/in/jorgeluispardo/"><img alt="LinkedIn" src="https://img.shields.io/badge/Jorge%20Pardo-333333?style=flat-square&logo=linkedin"></a>
-<a href="https://www.instagram.com/jorgepardo/"><img alt="Instagram" src="https://img.shields.io/badge/jorgepardo-333333?style=flat-square&logo=instagram"></a>
-<a href="https://twitter.com/jorgepardor"><img alt="Twitter" src="https://img.shields.io/badge/jorgepardor-333333?style=flat-square&logo=twitter"></a>
-<a href="mailto:hi@jorgepardo.dev"><img alt="Email" src="https://img.shields.io/badge/email-333333?style=flat-square&logo=email"></a>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/jorgepardor" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jorgepardor" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/jorgeluispardo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jorgeluispardo" height="30" width="40" /></a>
+<a href="https://www.behance.net/jorgeluispardo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="jorgeluispardo" height="30" width="40" /></a>
 </p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.gatsbyjs.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gatsbyjs/gatsbyjs-icon.svg" alt="gatsby" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://gohugo.io/" target="_blank" rel="noreferrer"> <img src="https://api.iconify.design/logos-hugo.svg" alt="hugo" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://rubyonrails.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-original-wordmark.svg" alt="rails" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://www.sketch.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sketchapp/sketchapp-icon.svg" alt="sketch" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/> </a> <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
