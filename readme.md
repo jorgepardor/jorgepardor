@@ -9,9 +9,9 @@
 
 - 📫 How to reach me **hi@jorgepardo.dev**
 
-- 📄 Know about my experiences [https://drive.google.com/drive/folders/1Jc3iOZSoYyCnWS5Aw2IQ8dn2PPRxQZpw?usp=share_link](https://drive.google.com/drive/folders/1Jc3iOZSoYyCnWS5Aw2IQ8dn2PPRxQZpw?usp=share_link)
+- 📄 Download my CV: [https://drive.google.com/drive/folders/1Jc3iOZSoYyCnWS5Aw2IQ8dn2PPRxQZpw?usp=share_link](https://drive.google.com/drive/folders/1Jc3iOZSoYyCnWS5Aw2IQ8dn2PPRxQZpw?usp=share_link)
 
-- ⚡ Fun fact **I like airplanes & 16-bit videogames**
+- ⚡ Hobbies **I like airplanes & 16-bit videogames**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
